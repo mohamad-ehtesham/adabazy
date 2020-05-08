@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76c6b3d1.chunk.css",
+    "main.js": "/static/js/main.bfbf13fb.chunk.js",
+    "main.js.map": "/static/js/main.bfbf13fb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ea37f05.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ea37f05.js.map",
+    "static/js/2.e15fd16c.chunk.js": "/static/js/2.e15fd16c.chunk.js",
+    "static/js/2.e15fd16c.chunk.js.map": "/static/js/2.e15fd16c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e3db5245033116b4b82671ed338290a5.js": "/precache-manifest.e3db5245033116b4b82671ed338290a5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.76c6b3d1.chunk.css.map": "/static/css/main.76c6b3d1.chunk.css.map",
+    "static/js/2.e15fd16c.chunk.js.LICENSE.txt": "/static/js/2.e15fd16c.chunk.js.LICENSE.txt",
+    "static/media/Vazir.woff": "/static/media/Vazir.03ed11c5.woff",
+    "static/media/Vazir.eot?#iefix": "/static/media/Vazir.7e32f522.eot",
+    "static/media/Vazir.ttf": "/static/media/Vazir.b295a26d.ttf",
+    "static/media/Vazir.woff2": "/static/media/Vazir.c353f7ef.woff2",
+    "static/media/solid.css": "/static/media/fa-solid-900.ec763292.svg",
+    "static/media/main.mp3": "/static/media/main.988e632d.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ea37f05.js",
+    "static/js/2.e15fd16c.chunk.js",
+    "static/css/main.76c6b3d1.chunk.css",
+    "static/js/main.bfbf13fb.chunk.js"
+  ]
+}
