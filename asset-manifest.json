@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.76c6b3d1.chunk.css",
+    "main.css": "/static/css/main.d26fd016.chunk.css",
     "main.js": "/static/js/main.961d893b.chunk.js",
     "main.js.map": "/static/js/main.961d893b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5ea37f05.js",
@@ -8,9 +8,9 @@
     "static/js/2.e15fd16c.chunk.js": "/static/js/2.e15fd16c.chunk.js",
     "static/js/2.e15fd16c.chunk.js.map": "/static/js/2.e15fd16c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.59011dc677925f806abc143f443280b5.js": "/precache-manifest.59011dc677925f806abc143f443280b5.js",
+    "precache-manifest.f36b04ea51fa9d8f4fd74689f4b9bc67.js": "/precache-manifest.f36b04ea51fa9d8f4fd74689f4b9bc67.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.76c6b3d1.chunk.css.map": "/static/css/main.76c6b3d1.chunk.css.map",
+    "static/css/main.d26fd016.chunk.css.map": "/static/css/main.d26fd016.chunk.css.map",
     "static/js/2.e15fd16c.chunk.js.LICENSE.txt": "/static/js/2.e15fd16c.chunk.js.LICENSE.txt",
     "static/media/Vazir.woff": "/static/media/Vazir.03ed11c5.woff",
     "static/media/Vazir.eot?#iefix": "/static/media/Vazir.7e32f522.eot",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.5ea37f05.js",
     "static/js/2.e15fd16c.chunk.js",
-    "static/css/main.76c6b3d1.chunk.css",
+    "static/css/main.d26fd016.chunk.css",
     "static/js/main.961d893b.chunk.js"
   ]
 }
